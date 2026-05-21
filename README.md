@@ -45,7 +45,10 @@ Exemplo: git commit -m `Adiciona introdução com contexto do problema`
 - [Baixa e alta fidelidade](https://www.figma.com/design/F9S5MZVJ0q9ruXaMv4MlFI/SyncroBaby-Novo?node-id=0-1&p=f&t=c1iRzuBJzFTjRVRh-0)
 
 ## Repositórios
-- [Front-end](https://github.com/JoaoMoraes28/frontend_SyncroBaby)
+- [Front-end](https://github.com/JoaoMoraes28/frontendsyncrobabyvercel.git)
+- [Back-end](https://github.com/ghpedro16/backend_syncrobaby.git)
+- [Banco de Dados](https://github.com/Luana598/db-syncrobaby.git)
+- [Mobile](https://github.com/GabryelFillipe/MobileSyncrobaby.git)
 
 ## Authors
 
